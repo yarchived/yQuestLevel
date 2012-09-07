@@ -1,9 +1,8 @@
-## Interface: 30300
+## Interface: 50001
 
-## Title: |cffff8800y|rQuestLevel
+## Title: yQuestLevel
 ## Note: Shows the quest level
 ## Author: yleaf
-## Version: 1.0
-
+## Version: @project-version@
 
 yQuestLevel.lua
